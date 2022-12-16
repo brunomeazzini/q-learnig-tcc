@@ -1,6 +1,8 @@
 # q-learnig-tcc
 
-O MetaTrader é uma plataforma de negociação do mercados financeiros. Você pode instalar o MetaTrader em seu computador os passos abaixo:
+Antes de usar é importante fazer a instalação do MT5.
+
+O MetaTrader(MT5) é uma plataforma de negociação do mercados financeiros. Você pode instalar o MetaTrader em seu computador os passos abaixo:
 
 Visite o site do MetaTrader https://www.metatrader5.com/pt e escolha a versão do MetaTrader 5.
 Clique em "Baixar para Windows" para instalar o MetaTrader em um computador com o sistema operacional Windows, ou clique em "Baixar para Mac" para instalar o MetaTrader em um computador com o sistema operacional Mac.
